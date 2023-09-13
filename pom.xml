@@ -1192,7 +1192,7 @@
 
 		<customArgLineForTesting />
 
-		<sonar.host.url>http://54.184.189.29:9000/</sonar.host.url>	
+		<sonar.host.url>http://3.99.137.139:9000/</sonar.host.url>	
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
 		<sonar.issuesReport.lightModeOnly>true</sonar.issuesReport.lightModeOnly>
 		<sonar.issuesReport.console.enable>true</sonar.issuesReport.console.enable>
