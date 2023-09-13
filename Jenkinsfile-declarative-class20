@@ -3,7 +3,7 @@ pipeline{
     agent any
     tools {
 
-        maven "maven3.9.2"
+        maven "maven3.9.4"
     }
 
     stages {
@@ -11,7 +11,7 @@ pipeline{
             steps{
                 sh "echo 'clone latest code from github'"
                 sh "echo 'build  developing for dev environment for june17'"
-                git 'https://github.com/Lion-Technology-Solutions/liontech-emr-health-app.git'
+                git 'https://github.com/Robinpreet98/liontech-emr-health-app.git'
             }
         }
 
